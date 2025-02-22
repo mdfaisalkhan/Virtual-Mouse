@@ -1,5 +1,5 @@
 # Virtual-Mouse
-A virtual mouse is a software-based input device that allows users to control the cursor on a computer screen without the need for a physical mouse. This can be particularly useful in scenarios where a traditional mouse is not available or practical, such as in presentations, touchscreen devices, or for individuals with physical disabilities. Python, with its rich ecosystem of libraries, can be used to create a virtual mouse. Below is an explanation of how to build a simple virtual mouse using Python.
+A <a href='https://github1s.com/mdfaisalkhan/Virtual-Mouse'>virtual mouse</a> is a software-based input device that allows users to control the cursor on a computer screen without the need for a physical mouse. This can be particularly useful in scenarios where a traditional mouse is not available or practical, such as in presentations, touchscreen devices, or for individuals with physical disabilities. Python, with its rich ecosystem of libraries, can be used to create a virtual mouse. Below is an explanation of how to build a simple virtual mouse using Python.
 
 Key Components of a Virtual Mouse in Python
 Hand Tracking: To control the virtual mouse, we need to track the user's hand movements. This can be done using computer vision techniques and libraries like OpenCV and MediaPipe.
